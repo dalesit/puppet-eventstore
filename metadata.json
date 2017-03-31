@@ -1,7 +1,7 @@
 {
-  "name": "josm5-eventstore",
+  "name": "dalesit-eventstore",
   "version": "0.1.0",
-  "author": "josm5",
+  "author": "Joel Smith",
   "summary": "Module to install eventstore",
   "license": "Apache-2.0",
   "source": "",
