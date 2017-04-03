@@ -1,0 +1,15 @@
+{
+  "Gemfile": "6a08ec57f18e97c4ead40a6529d05aa8",
+  "README.md": "9c9b8ef1742adca0f62695443d348c48",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "manifests/config.pp": "aef299895f63ab85ea0ee4ed66d681aa",
+  "manifests/init.pp": "5d0aff66c7f52b6b60dd4686e4ead878",
+  "manifests/install.pp": "e2394a79400413011f6ce07d81623956",
+  "manifests/params.pp": "12a6202a7a7fb461d1d93caefadd6874",
+  "manifests/service.pp": "1dc219a9b7c1add923df4a78b21d13df",
+  "metadata.json": "9df32ba4b041de64917f91fcf4ddf222",
+  "spec/classes/init_spec.rb": "01245f8b05b36447503ffdac0d28bbc8",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/eventstore.conf.erb": "a9da643abf5ce2d3347d5ab6fcfb3dd1",
+  "tests/init.pp": "98d48ce52ecd8e8e5b4fde7a7313d419"
+}
