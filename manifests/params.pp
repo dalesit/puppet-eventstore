@@ -9,11 +9,11 @@ class eventstore::params {
   $eventstore_conf  = '/etc/eventstore/eventstore.conf'
   $eventstore_user  = 'eventstore'
   $eventstore_group = 'eventstore'
-  $repo_source      = 'https://apt-oss.geteventstore.com/ubuntu/'
+  $repo_source      = 'https://packagecloud.io/EventStore/EventStore-OSS/ubuntu/'
   $repo_release     = 'trusty'
   $repo_repo        = 'main'
   $repo_arch        = 'amd64'
-  $key_source       = 'https://apt-oss.geteventstore.com/eventstore.key'
+  $key_source       = 'https://packagecloud.io/EventStore/EventStore-OSS/gpgkey'
   $default_settings   = {
     'log'                 => '/var/log/eventstore',
     'int-ip'              => $facts['ipaddress'],
