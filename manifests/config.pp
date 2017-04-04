@@ -13,5 +13,6 @@ class eventstore::config {
     content => template('eventstore/eventstore.conf.erb'),
     notify  => Service[$::eventstore::service_name],
     before  => Service[$::eventstore::service_name],
+    require => Package[$::eventstore::package_name],
   }
 }
